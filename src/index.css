@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --socialist-red: #C8102E;
+  --socialist-yellow: #FFD700;
+  --socialist-white: #F5F5F5;
+  --socialist-blue: #004080;
+}
+
+@layer base {
+  html {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+}
+
+@layer components {
+  .socialist-red {
+    @apply bg-[#C8102E];
+  }
+  
+  .socialist-yellow {
+    @apply bg-[#FFD700];
+  }
+  
+  .socialist-white {
+    @apply bg-[#F5F5F5];
+  }
+  
+  .socialist-blue {
+    @apply bg-[#004080];
+  }
+  
+  .text-socialist-red {
+    @apply text-[#C8102E];
+  }
+  
+  .text-socialist-yellow {
+    @apply text-[#FFD700];
+  }
+  
+  .text-socialist-blue {
+    @apply text-[#004080];
+  }
+  
+  .border-socialist-red {
+    @apply border-[#C8102E];
+  }
+  
+  .hover-socialist-red {
+    @apply hover:bg-[#C8102E];
+  }
+}
+
+@layer base {
+  body {
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
+
+@layer utilities {
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  
+  .border-b-3 {
+    border-bottom-width: 3px;
+  }
+}
