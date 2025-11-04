@@ -15,6 +15,8 @@ interface Question {
   question: string
   options: string[]
   correct: number
+  shuffledOptions?: string[]
+  shuffledCorrect?: number
 }
 
 interface QuizResult {
@@ -33,10 +35,34 @@ const Quiz: React.FC = () => {
   const [quizResults, setQuizResults] = useState<QuizResult[]>([])
   const [isQuizStarted, setIsQuizStarted] = useState(false)
 
-  // Hàm chọn ngẫu nhiên 20 câu hỏi từ 100 câu
+  // Hàm shuffle đáp án cho mỗi câu hỏi
+  const shuffleOptions = (question: Question): Question => {
+    const optionsWithIndex = question.options.map((option, index) => ({
+      option,
+      index,
+    }))
+
+    // Shuffle đáp án
+    const shuffled = optionsWithIndex.sort(() => Math.random() - 0.5)
+
+    // Tìm vị trí mới của đáp án đúng
+    const newCorrectIndex = shuffled.findIndex(
+      (item) => item.index === question.correct
+    )
+
+    return {
+      ...question,
+      shuffledOptions: shuffled.map((item) => item.option),
+      shuffledCorrect: newCorrectIndex,
+    }
+  }
+
+  // Hàm chọn ngẫu nhiên 20 câu hỏi từ 100 câu và shuffle đáp án
   const selectRandomQuestions = () => {
     const shuffled = [...questionsData].sort(() => Math.random() - 0.5)
-    return shuffled.slice(0, 20)
+    const selected = shuffled.slice(0, 20)
+    // Shuffle đáp án cho mỗi câu hỏi
+    return selected.map((q) => shuffleOptions(q))
   }
 
   // Khởi tạo quiz mới
@@ -77,7 +103,9 @@ const Quiz: React.FC = () => {
     const results: QuizResult[] = selectedQuestions.map((question, index) => ({
       questionId: question.id,
       selectedAnswer: selectedAnswers[index] ?? -1,
-      isCorrect: selectedAnswers[index] === question.correct,
+      isCorrect:
+        selectedAnswers[index] ===
+        (question.shuffledCorrect ?? question.correct),
     }))
 
     setQuizResults(results)
@@ -176,33 +204,36 @@ const Quiz: React.FC = () => {
                           Câu {index + 1}: {question.question}
                         </h3>
                         <div className="space-y-2">
-                          {question.options.map((option, optionIndex) => {
-                            const isSelected =
-                              result.selectedAnswer === optionIndex
-                            const isCorrectOption =
-                              optionIndex === question.correct
+                          {(question.shuffledOptions ?? question.options).map(
+                            (option, optionIndex) => {
+                              const isSelected =
+                                result.selectedAnswer === optionIndex
+                              const isCorrectOption =
+                                optionIndex ===
+                                (question.shuffledCorrect ?? question.correct)
 
-                            let optionClass = 'p-3 rounded-lg border '
-                            if (isCorrectOption) {
-                              optionClass +=
-                                'bg-green-100 border-green-500 text-green-800'
-                            } else if (isSelected && !isCorrect) {
-                              optionClass +=
-                                'bg-red-100 border-red-500 text-red-800'
-                            } else {
-                              optionClass +=
-                                'bg-gray-50 border-gray-200 text-gray-700'
+                              let optionClass = 'p-3 rounded-lg border '
+                              if (isCorrectOption) {
+                                optionClass +=
+                                  'bg-green-100 border-green-500 text-green-800'
+                              } else if (isSelected && !isCorrect) {
+                                optionClass +=
+                                  'bg-red-100 border-red-500 text-red-800'
+                              } else {
+                                optionClass +=
+                                  'bg-gray-50 border-gray-200 text-gray-700'
+                              }
+
+                              return (
+                                <div key={optionIndex} className={optionClass}>
+                                  <span className="font-medium mr-2">
+                                    {String.fromCharCode(65 + optionIndex)}.
+                                  </span>
+                                  {option}
+                                </div>
+                              )
                             }
-
-                            return (
-                              <div key={optionIndex} className={optionClass}>
-                                <span className="font-medium mr-2">
-                                  {String.fromCharCode(65 + optionIndex)}.
-                                </span>
-                                {option}
-                              </div>
-                            )
-                          })}
+                          )}
                         </div>
                       </div>
                     </div>
@@ -282,22 +313,24 @@ const Quiz: React.FC = () => {
           </h2>
 
           <div className="space-y-3">
-            {currentQuestion.options.map((option, index) => (
-              <button
-                key={index}
-                onClick={() => handleAnswerSelect(index)}
-                className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 hover:shadow-md ${
-                  selectedAnswers[currentQuestionIndex] === index
-                    ? 'border-indigo-500 bg-indigo-50 text-indigo-800'
-                    : 'border-gray-200 bg-gray-50 hover:border-gray-300 text-gray-700'
-                }`}
-              >
-                <span className="font-semibold mr-3 text-indigo-600">
-                  {String.fromCharCode(65 + index)}.
-                </span>
-                {option}
-              </button>
-            ))}
+            {(currentQuestion.shuffledOptions ?? currentQuestion.options).map(
+              (option, index) => (
+                <button
+                  key={index}
+                  onClick={() => handleAnswerSelect(index)}
+                  className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 hover:shadow-md ${
+                    selectedAnswers[currentQuestionIndex] === index
+                      ? 'border-indigo-500 bg-indigo-50 text-indigo-800'
+                      : 'border-gray-200 bg-gray-50 hover:border-gray-300 text-gray-700'
+                  }`}
+                >
+                  <span className="font-semibold mr-3 text-indigo-600">
+                    {String.fromCharCode(65 + index)}.
+                  </span>
+                  {option}
+                </button>
+              )
+            )}
           </div>
         </div>
 

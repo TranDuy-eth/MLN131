@@ -23,20 +23,31 @@ const HeroSection: React.FC = () => {
           Dân tộc thiểu số là bộ phận không thể tách rời của cộng đồng quốc gia Việt Nam và đóng vai trò vô cùng quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa
         </p>
 
-        {/* Quiz Button */}
-        <div className="flex flex-col sm:flex-row gap-4 items-center">
+        {/* Quiz Button - Enhanced */}
+        <div className="mt-8">
           <Link
             to="/quiz"
-            className="group bg-gradient-to-r from-[#C8102E] to-[#B8001E] hover:from-[#B8001E] hover:to-[#A8001E] text-white font-bold py-4 px-8 rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300 flex items-center gap-3 text-lg"
+            className="group relative inline-block"
           >
-            <Brain className="w-6 h-6" />
-            Kiểm tra kiến thức
-            <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            {/* Glowing effect */}
+            <div className="absolute -inset-1 bg-gradient-to-r from-red-600 via-pink-600 to-purple-600 rounded-full blur-lg opacity-75 group-hover:opacity-100 transition-opacity duration-300 animate-pulse"></div>
+
+            {/* Main button */}
+            <div className="relative bg-gradient-to-r from-[#C8102E] to-[#B8001E] hover:from-[#B8001E] hover:to-[#A8001E] text-white font-bold py-5 px-10 rounded-full shadow-2xl transform group-hover:scale-105 transition-all duration-300 flex items-center gap-3 text-lg border-2 border-white/20">
+              <Brain className="w-7 h-7 group-hover:rotate-12 transition-transform duration-300" />
+              <span className="text-xl">Kiểm tra kiến thức</span>
+              <ArrowRight className="w-6 h-6 group-hover:translate-x-2 transition-transform duration-300" />
+            </div>
           </Link>
 
-          <div className="text-white/80 text-sm text-center">
-            <p>🎯 20 câu hỏi ngẫu nhiên</p>
-            <p>📊 Kết quả chi tiết</p>
+          {/* Info badges */}
+          <div className="flex flex-wrap justify-center gap-4 mt-6">
+            <div className="bg-white/10 backdrop-blur-md px-4 py-2 rounded-full border border-white/20">
+              <span className="text-white font-semibold">🎯 20 câu hỏi ngẫu nhiên</span>
+            </div>
+            <div className="bg-white/10 backdrop-blur-md px-4 py-2 rounded-full border border-white/20">
+              <span className="text-white font-semibold">📊 Kết quả chi tiết</span>
+            </div>
           </div>
         </div>
       </div>
