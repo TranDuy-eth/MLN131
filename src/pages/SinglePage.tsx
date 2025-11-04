@@ -1,19 +1,23 @@
 import React from 'react';
 import HeroSection from '../sections/HeroSection';
-import TimelineSection from '../sections/TimelineSection';
-import SocialismEarlyStageSection from '../sections/SocialismEarlyStageSection';
-import ConditionsForSocialismSection from '../sections/ConditionsForSocialismSection';
-import SocialismCharacteristicsSection from '../sections/SocialismCharacteristicsSection';
+import EconomicRoleSection from '../sections/EconomicRoleSection';
+import CulturalRoleSection from '../sections/CulturalRoleSection';
+import SecurityRoleSection from '../sections/SecurityRoleSection';
+import MetaphorSection from '../sections/MetaphorSection';
+import ChatBot from '../components/ChatBot';
 
 const SinglePage: React.FC = () => {
   return (
-    <div className="h-screen w-full overflow-y-scroll snap-y snap-mandatory">
-      <HeroSection />
-      <TimelineSection />
-      <SocialismEarlyStageSection />
-      <ConditionsForSocialismSection />
-      <SocialismCharacteristicsSection />
-    </div>
+    <>
+      <div className="h-screen w-full overflow-y-scroll">
+        <HeroSection />
+        <EconomicRoleSection />
+        <CulturalRoleSection />
+        <SecurityRoleSection />
+        <MetaphorSection />
+      </div>
+      <ChatBot />
+    </>
   );
 };
 

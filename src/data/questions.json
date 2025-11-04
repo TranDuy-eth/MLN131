@@ -1,1071 +1,1101 @@
 [
   {
     "id": 1,
-    "question": "Theo nghĩa rộng, chủ nghĩa xã hội được hiểu là gì?",
+    "question": "Việt Nam có bao nhiêu dân tộc được công nhận chính thức?",
     "options": [
-      "Là một phong trào thực tiễn, phong trào đấu tranh của nhân dân lao động chống áp bức, bất công, chống các giai cấp thống trị.",
-      "Là một trào lưu tư tưởng, lý luận phản ánh những khát vọng của nhân dân lao động về một xã hội tốt đẹp.",
-      "Là một khoa học, học thuyết về sự mệnh lịch sử của giai cấp công nhân.",
-      "Cả A, B và C đều đúng."
+      "50 dân tộc",
+      "53 dân tộc",
+      "54 dân tộc",
+      "55 dân tộc"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 2,
-    "question": "Chủ nghĩa xã hội khoa học được hình thành trên cơ sở nghiên cứu sâu sắc về xã hội nào?",
+    "question": "Dân tộc thiểu số cư trú trên bao nhiêu phần diện tích lãnh thổ Việt Nam?",
     "options": [
-      "Xã hội phong kiến.",
-      "Xã hội nô lệ.",
-      "Xã hội tư bản chủ nghĩa.",
-      "Xã hội cộng sản nguyên thủy."
+      "1/2 diện tích lãnh thổ",
+      "2/3 diện tích lãnh thổ",
+      "3/4 diện tích lãnh thổ",
+      "4/5 diện tích lãnh thổ"
     ],
     "correct": 2
   },
   {
     "id": 3,
-    "question": "Học thuyết nào đã vạch rõ những quy luật cơ bản của vận động xã hội, chỉ ra phương pháp khoa học để giải thích lịch sử?",
+    "question": "Vai trò của dân tộc thiểu số trong xây dựng XHCN bao gồm những phương diện nào?",
     "options": [
-      "Học thuyết về giá trị thặng dư.",
-      "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
-      "Học thuyết hình thái kinh tế - xã hội.",
-      "Học thuyết về chủ nghĩa duy vật lịch sử."
+      "Chỉ về kinh tế",
+      "Chỉ về văn hóa",
+      "Kinh tế - xã hội, văn hóa, an ninh - chính trị",
+      "Chỉ về an ninh quốc phòng"
     ],
     "correct": 2
   },
   {
     "id": 4,
-    "question": "Ai là người đã bổ sung, phát triển và hiện thực hóa học thuyết hình thái kinh tế - xã hội trong công cuộc xây dựng chủ nghĩa xã hội ở nước Nga Xôviết?",
-    "options": ["C. Mác.", "Ph. Ăngghen.", "V.I. Lênin.", "Hêghen."],
+    "question": "Dân tộc thiểu số sinh sống tại bao nhiêu xã biên giới?",
+    "options": [
+      "282 xã",
+      "332 xã",
+      "382 xã",
+      "432 xã"
+    ],
     "correct": 2
   },
   {
     "id": 5,
-    "question": "Học thuyết hình thái kinh tế - xã hội của chủ nghĩa Mác – Lênin đã chỉ ra tính tất yếu của sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa thông qua quá trình nào?",
+    "question": "Việc phát triển vùng dân tộc thiểu số đóng vai trò như thế nào đối với sự phát triển bền vững của đất nước?",
     "options": [
-      "Quá trình đấu tranh giai cấp.",
-      "Quá trình lịch sử - tự nhiên.",
-      "Quá trình cải tạo xã hội.",
-      "Quá trình phát triển lực lượng sản xuất."
-    ],
-    "correct": 1
-  },
-  {
-    "id": 6,
-    "question": "Yếu tố quan trọng nhất quyết định sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-    "options": [
-      "Sự trưởng thành của giai cấp nông dân.",
-      "Sự phát triển của giai cấp tư sản.",
-      "Sự phát triển của lực lượng sản xuất và sự trưởng thành của giai cấp công nhân.",
-      "Sự đấu tranh của các dân tộc bị áp bức."
+      "Vai trò thứ yếu",
+      "Không quan trọng",
+      "Yếu tố quyết định",
+      "Chỉ mang tính chất hỗ trợ"
     ],
     "correct": 2
   },
   {
-    "id": 7,
-    "question": "Học thuyết hình thái kinh tế - xã hội của chủ nghĩa Mác – Lênin đã phân tích hình thái kinh tế - xã hội cộng sản chủ nghĩa thành mấy giai đoạn?",
+    "id": 6,
+    "question": "Dân tộc thiểu số có vai trò gì trong việc phát huy nội lực?",
     "options": [
-      "Một giai đoạn.",
-      "Hai giai đoạn (giai đoạn thấp và giai đoạn cao).",
-      "Ba giai đoạn.",
-      "Bốn giai đoạn."
+      "Không có vai trò",
+      "Phát huy nội lực, tinh thần tự lực, tự cường",
+      "Chỉ dựa vào sự hỗ trợ từ bên ngoài",
+      "Vai trò hạn chế"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "question": "Khối đại đoàn kết toàn dân tộc được tạo nên bởi ai?",
+    "options": [
+      "Chỉ dân tộc Kinh",
+      "DTTs cùng với dân tộc đa số và các tầng lớp khác",
+      "Chỉ các dân tộc thiểu số",
+      "Chỉ giai cấp công nhân"
     ],
     "correct": 1
   },
   {
     "id": 8,
-    "question": "Trong tác phẩm nào, C. Mác đã cho rằng \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là thời kỳ quá độ lên chủ nghĩa cộng sản\"?",
+    "question": "Mỗi dân tộc thiểu số góp phần tạo nên điều gì cho văn hóa Việt Nam?",
     "options": [
-      "\"Tuyên ngôn của Đảng Cộng sản\".",
-      "\"Phê phán Cương lĩnh Gôta\" (1875).",
-      "\"Bộ Tư bản\".",
-      "\"Làm gì?\"."
+      "Sự đơn điệu",
+      "Sự phong phú, đa dạng",
+      "Không có đóng góp gì",
+      "Sự đồng nhất"
     ],
     "correct": 1
   },
   {
     "id": 9,
-    "question": "Theo C. Mác, xã hội của thời kỳ quá độ vẫn còn mang những dấu vết của xã hội cũ về những phương diện nào?",
+    "question": "Trách nhiệm của dân tộc thiểu số đối với văn hóa truyền thống là gì?",
     "options": [
-      "Chỉ về kinh tế và chính trị.",
-      "Chỉ về đạo đức và tinh thần.",
-      "Về mọi phương diện - kinh tế, đạo đức, tinh thần.",
-      "Chỉ về văn hóa và tư tưởng."
+      "Từ bỏ văn hóa truyền thống",
+      "Giữ gìn và phát huy bản sắc văn hóa truyền thống",
+      "Chỉ học tập văn hóa nước ngoài",
+      "Không quan tâm đến văn hóa"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 10,
-    "question": "V.I. Lênin đã khẳng định điều gì về mặt lý luận đối với thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản?",
+    "question": "Dân tộc thiểu số cư trú ở đâu để đóng vai trò quan trọng trong bảo vệ chủ quyền quốc gia?",
     "options": [
-      "Không thể nghi ngờ được rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản, có một thời kỳ quá độ nhất định.",
-      "Thời kỳ quá độ chỉ cần thiết cho những nước phát triển cao.",
-      "Thời kỳ quá độ là quá trình cải biến cách mạng từ xã hội nô sang xã hội kia.",
-      "Thời kỳ quá độ là giai đoạn đã phát triển nền tảng của xã hội cộng sản chủ nghĩa."
+      "Ở các thành phố lớn",
+      "Ở các vùng biên giới, hải đảo và vị trí trọng yếu",
+      "Ở vùng đồng bằng",
+      "Ở khu công nghiệp"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 11,
-    "question": "V.I. Lênin nhấn mạnh cần phải có một thời kỳ quá độ \"khá lâu dài\" đối với những nước nào?",
+    "question": "Vai trò của dân tộc thiểu số trong an ninh chính trị là gì?",
     "options": [
-      "Những nước đã trải qua chủ nghĩa tư bản phát triển cao.",
-      "Những nước chưa có chủ nghĩa tư bản phát triển cao.",
-      "Tất cả các nước quá độ lên chủ nghĩa xã hội.",
-      "Những nước có nền kinh tế phát triển mạnh."
+      "Không có vai trò",
+      "Giữ vững an ninh chính trị, trật tự an toàn xã hội",
+      "Chỉ tham gia quân đội",
+      "Vai trò hạn chế"
     ],
     "correct": 1
   },
   {
     "id": 12,
-    "question": "Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản được hiểu theo mấy nghĩa về mặt lý luận và thực tiễn?",
+    "question": "Tín đồ các tôn giáo trong dân tộc thiểu số góp phần như thế nào vào sự nghiệp xây dựng XHCN?",
     "options": [
-      "Một nghĩa.",
-      "Hai nghĩa (trực tiếp và gián tiếp).",
-      "Ba nghĩa.",
-      "Bốn nghĩa."
+      "Không tham gia",
+      "Đoàn kết xây dựng cuộc sống 'tốt đời, đẹp đạo'",
+      "Chỉ tập trung vào tôn giáo",
+      "Xa lánh xã hội"
     ],
     "correct": 1
   },
   {
     "id": 13,
-    "question": "Thế nào là \"quá độ trực tiếp\" lên chủ nghĩa cộng sản?",
+    "question": "Ẩn dụ 'dàn nhạc giao hưởng' so sánh mỗi dân tộc với gì?",
     "options": [
-      "Quá độ đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.",
-      "Quá độ đối với những nước đã trải qua chủ nghĩa tư bản phát triển.",
-      "Quá độ diễn ra trong một thời gian ngắn.",
-      "Quá độ bằng con đường bạo lực."
+      "Một bản nhạc",
+      "Một nhạc cụ độc đáo",
+      "Một người chơi nhạc",
+      "Một khán giả"
     ],
     "correct": 1
   },
   {
     "id": 14,
-    "question": "Thế nào là \"quá độ gián tiếp\" lên chủ nghĩa cộng sản?",
+    "question": "Trong ẩn dụ 'dàn nhạc giao hưởng', Đảng và Nhà nước đóng vai trò gì?",
     "options": [
-      "Quá độ đối với những nước đã trải qua chủ nghĩa tư bản phát triển.",
-      "Quá độ đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.",
-      "Quá độ diễn ra trong một thời gian dài.",
-      "Quá độ bằng con đường hòa bình."
+      "Khán giả",
+      "Nhạc cụ",
+      "Người nhạc trưởng",
+      "Ca sĩ"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "question": "Mục tiêu của việc 'điều chỉnh dàn nhạc' (hỗ trợ phát triển dân tộc) là gì?",
+    "options": [
+      "Làm cho tất cả giống nhau",
+      "Đảm bảo mỗi dân tộc được hỗ trợ phát triển và có không gian riêng",
+      "Loại bỏ sự khác biệt",
+      "Chỉ phát triển một vài dân tộc"
     ],
     "correct": 1
   },
   {
-    "id": 15,
-    "question": "Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
-    "options": [
-      "Là thời kỳ cải biến cách mạng sâu sắc, triệt để chủ nghĩa tư bản trên tất cả các lĩnh vực.",
-      "Là thời kỳ xây dựng nền kinh tế tư bản chủ nghĩa phát triển.",
-      "Là thời kỳ xã hội đã hoàn toàn thoát khỏi những dấu vết của xã hội cũ.",
-      "Là thời kỳ mà giai cấp công nhân đã hoàn thành sứ mệnh lịch sử của mình."
-    ],
-    "correct": 0
-  },
-  {
     "id": 16,
-    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội được xem là thời kỳ cải tạo cách mạng như thế nào?",
+    "question": "Bản giao hưởng vĩ đại trong ẩn dụ tượng trưng cho điều gì?",
     "options": [
-      "Chỉ cải tạo về kinh tế.",
-      "Cải tạo cách mạng sâu sắc, triệt để chủ nghĩa tư bản trên tất cả các lĩnh vực: kinh tế, chính trị, văn hóa, xã hội.",
-      "Chỉ cải tạo về chính trị.",
-      "Chỉ cải tạo về văn hóa."
+      "Sự thống trị của một dân tộc",
+      "Sự phát triển và tiến bộ xã hội",
+      "Sự mất đi bản sắc",
+      "Sự chia rẽ"
     ],
     "correct": 1
   },
   {
     "id": 17,
-    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội được xác định là một thời kỳ có tính chất như thế nào?",
+    "question": "Nguyên tắc giải quyết vấn đề dân tộc trong XHCN là gì?",
     "options": [
-      "Ngắn ngủi và dễ dàng.",
-      "Lâu dài và gian khổ.",
-      "Chỉ mang tính chất kinh tế.",
-      "Chỉ liên quan đến chính trị."
+      "Phân biệt đối xử",
+      "Bình đẳng, đoàn kết, tương trợ lẫn nhau",
+      "Ưu tiên dân tộc đa số",
+      "Đồng hóa văn hóa"
     ],
     "correct": 1
   },
   {
     "id": 18,
-    "question": "Thời kỳ quá độ bắt đầu từ khi nào và kết thúc khi nào?",
+    "question": "Dân tộc thiểu số sinh sống tại bao nhiêu huyện trên cả nước?",
     "options": [
-      "Bắt đầu từ khi giai cấp công nhân giành được chính quyền và kết thúc khi xây dựng thành công chủ nghĩa xã hội.",
-      "Bắt đầu từ khi có cách mạng công nghiệp và kết thúc khi kinh tế phát triển.",
-      "Bắt đầu từ khi xóa bỏ chế độ tư hữu và kết thúc khi con người được tự do hoàn toàn.",
-      "Bắt đầu từ khi có đảng cộng sản và kết thúc khi xóa bỏ giai cấp."
+      "403 huyện",
+      "453 huyện",
+      "503 huyện",
+      "553 huyện"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": 19,
-    "question": "Các nhà sáng lập chủ nghĩa xã hội khoa học đã đưa ra những tiêu chuẩn thực sự duy vật, khoa học cho sự phân kỳ hình thái kinh tế - xã hội cộng sản chủ nghĩa trong học thuyết nào?",
+    "question": "Việt Nam có khoảng bao nhiêu ngôn ngữ của các dân tộc?",
     "options": [
-      "Học thuyết về giá trị thặng dư.",
-      "Học thuyết về sứ mệnh lịch sử của giai cấp công nhân.",
-      "Học thuyết hình thái kinh tế - xã hội.",
-      "Học thuyết về chuyên chính vô sản."
+      "50+ ngôn ngữ",
+      "80+ ngôn ngữ",
+      "100+ ngôn ngữ",
+      "150+ ngôn ngữ"
     ],
     "correct": 2
   },
   {
     "id": 20,
-    "question": "Trong thời kỳ quá độ, xã hội vừa thoát thai từ xã hội tư bản chủ nghĩa, vừa phát triển trên cơ sở nó còn mang những dấu vết của xã hội cũ. Điều này được ai khẳng định?",
+    "question": "Dân tộc thiểu số đóng góp gì cho khối đại đoàn kết toàn dân tộc?",
     "options": [
-      "Ph. Ăngghen.",
-      "V.I. Lênin.",
-      "C. Mác.",
-      "Cả C. Mác và V.I. Lênin."
+      "Không có đóng góp",
+      "Tạo sức mạnh tổng hợp, động lực cho công cuộc đổi mới",
+      "Chỉ là người hưởng lợi",
+      "Vai trò thụ động"
     ],
     "correct": 1
   },
   {
     "id": 21,
-    "question": "Theo chủ nghĩa Mác – Lênin, điều kiện kinh tế nào là nền tảng cho sự ra đời của chủ nghĩa xã hội?",
+    "question": "Chủ tịch Hồ Chí Minh nói gì về chính sách dân tộc?",
     "options": [
-      "Sự phát triển vượt bậc của lực lượng sản xuất dưới chủ nghĩa tư bản.",
-      "Sự tồn tại của chế độ chiếm hữu tư nhân về tư liệu sản xuất.",
-      "Sự ra đời của giai cấp tư sản.",
-      "Sự suy yếu của chủ nghĩa tư bản."
+      "Phân biệt các dân tộc",
+      "Bình đẳng và tương trợ lẫn nhau để cùng tiến bộ lên chủ nghĩa xã hội",
+      "Ưu tiên dân tộc Kinh",
+      "Tách biệt các dân tộc"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 22,
-    "question": "Các nhà sáng lập chủ nghĩa xã hội khoa học khẳng định vai trò to lớn của chủ nghĩa tư bản trong lịch sử phát triển mới của nhân loại là gì?",
+    "question": "Vùng dân tộc thiểu số có tiềm năng về những lĩnh vực nào?",
     "options": [
-      "Xóa bỏ chế độ phong kiến.",
-      "Tạo ra bước phát triển vượt bậc của lực lượng sản xuất.",
-      "Tạo ra sự giàu có cho xã hội.",
-      "Thúc đẩy thương mại quốc tế."
+      "Chỉ nông nghiệp",
+      "Nông lâm nghiệp, khoáng sản, thủy điện, du lịch sinh thái",
+      "Chỉ công nghiệp",
+      "Không có tiềm năng"
     ],
     "correct": 1
   },
   {
     "id": 23,
-    "question": "Mâu thuẫn cơ bản của chủ nghĩa tư bản về mặt kinh tế là gì?",
+    "question": "Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng DTTs giai đoạn nào?",
     "options": [
-      "Mâu thuẫn giữa giai cấp tư sản và giai cấp nông dân.",
-      "Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất.",
-      "Mâu thuẫn giữa sản xuất và tiêu dùng.",
-      "Mâu thuẫn giữa thành thị và nông thôn."
+      "2015-2025",
+      "2020-2025",
+      "2021-2030",
+      "2025-2035"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": 24,
-    "question": "Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa biểu hiện rõ nét nhất ở đâu?",
+    "question": "Tỷ lệ hộ nghèo ở vùng dân tộc thiểu số giảm bình quân bao nhiêu mỗi năm?",
     "options": [
-      "Trong lĩnh vực chính trị.",
-      "Trong các cuộc cách mạng xã hội.",
-      "Trong các cuộc khủng hoảng kinh tế chu kỳ.",
-      "Trong lĩnh vực văn hóa."
+      "1%/năm",
+      "2%/năm",
+      "3%/năm",
+      "5%/năm"
     ],
     "correct": 2
   },
   {
     "id": 25,
-    "question": "Điều kiện chính trị - xã hội nào là cần thiết cho sự ra đời của chủ nghĩa xã hội?",
+    "question": "Dân tộc thiểu số sinh sống tại bao nhiêu xã cấp xã?",
     "options": [
-      "Sự ổn định chính trị.",
-      "Sự phát triển của các Đảng phái đa nguyên.",
-      "Sự trưởng thành vượt bậc về số lượng và chất lượng của giai cấp công nhân.",
-      "Sự hợp tác giữa các giai cấp."
+      "4,468 xã",
+      "5,468 xã",
+      "6,468 xã",
+      "7,468 xã"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 26,
-    "question": "Theo C. Mác và Ph. Ăngghen, \"Từ chỗ là những hình thức phát triển khác nhau của lực lượng sản xuất, những quan hệ ấy trở thành những xiềng xích của các lực lượng xã hội\" là nói về điều gì?",
+    "question": "Vấn đề dân tộc và đoàn kết dân tộc là vấn đề như thế nào của cách mạng Việt Nam?",
     "options": [
-      "Quan hệ giữa các dân tộc.",
-      "Quan hệ giữa cá nhân và xã hội.",
-      "Quan hệ sản xuất dưới chủ nghĩa tư bản.",
-      "Quan hệ giữa con người và tự nhiên."
+      "Vấn đề tạm thời",
+      "Vấn đề chiến lược cơ bản, lâu dài và cấp bách",
+      "Vấn đề thứ yếu",
+      "Vấn đề đã được giải quyết"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 27,
-    "question": "Sự trưởng thành vượt bậc của giai cấp công nhân được đánh dấu bằng sự ra đời của tổ chức chính trị nào?",
+    "question": "Biên giới Việt Nam tiếp giáp với những quốc gia nào?",
     "options": [
-      "Các công đoàn.",
-      "Các phong trào xã hội.",
-      "Đảng Cộng sản.",
-      "Các tổ chức phi chính phủ."
+      "Chỉ Trung Quốc",
+      "Trung Quốc và Lào",
+      "Trung Quốc, Lào và Campuchia",
+      "Trung Quốc, Lào, Campuchia và Thái Lan"
     ],
     "correct": 2
   },
   {
     "id": 28,
-    "question": "Đảng Cộng sản có vai trò gì trong cuộc đấu tranh chính trị của giai cấp công nhân chống giai cấp tư sản?",
+    "question": "Nền văn hóa dân tộc thiểu số cần làm gì với tinh hoa văn hóa nhân loại?",
     "options": [
-      "Đóng vai trò làm cố vấn.",
-      "Đóng vai trò là đội tiên phong và trực tiếp lãnh đạo.",
-      "Đóng vai trò là người hỗ trợ tài chính.",
-      "Đóng vai trò là người cổ vũ tinh thần."
+      "Từ chối hoàn toàn",
+      "Tiếp thu để xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+      "Sao chép y nguyên",
+      "Không quan tâm"
     ],
     "correct": 1
   },
   {
     "id": 29,
-    "question": "Theo C. Mác và Ph. Ăngghen, giai cấp tư sản không chỉ giết những người lính mà còn tạo ra những người nào?",
+    "question": "Dân tộc thiểu số được ví như gì trong việc bảo vệ Tổ quốc?",
     "options": [
-      "Những người lính cách mạng.",
-      "Những người hiện đại, những người vô sản.",
-      "Những người trí thức.",
-      "Những người nông dân."
+      "Người hỗ trợ",
+      "Lá chắn vững chắc, những người gác cổng Tổ quốc",
+      "Lực lượng dự bị",
+      "Người quan sát"
     ],
     "correct": 1
   },
   {
     "id": 30,
-    "question": "Cách mạng vô sản là cuộc cách mạng của giai cấp nào và nhân dân lao động dưới sự lãnh đạo của ai?",
+    "question": "Mục tiêu phát triển vùng DTTs là gì?",
     "options": [
-      "Giai cấp nông dân dưới sự lãnh đạo của Đảng Cộng sản.",
-      "Giai cấp tư sản dưới sự lãnh đạo của Đảng Cộng sản.",
-      "Giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản.",
-      "Giai cấp trí thức dưới sự lãnh đạo của Đảng Cộng sản."
+      "Giảm nghèo nhanh, bền vững, thu hẹp khoảng cách với bình quân chung cả nước",
+      "Duy trì hiện trạng",
+      "Chỉ tập trung vào một vài vùng",
+      "Không có mục tiêu cụ thể"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": 31,
-    "question": "Mục đích của cách mạng vô sản là gì?",
+    "question": "Trong ẩn dụ dàn nhạc, 'hòa hợp' tượng trưng cho điều gì?",
     "options": [
-      "Lật đổ chế độ tư bản chủ nghĩa.",
-      "Thiết lập nhà nước chuyên chính vô sản.",
-      "Thực hiện sự nghiệp cải tạo xã hội cũ và xây dựng xã hội mới.",
-      "Tất cả các ý trên."
+      "Sự cạnh tranh",
+      "Đoàn kết dân tộc",
+      "Sự phân biệt",
+      "Sự độc lập riêng rẽ"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "id": 32,
-    "question": "C. Mác và Ph. Ăngghen nhận định rằng: \"Giai cấp tư sản không chỉ giết những người lính mà còn tạo ra… những người hiện đại, những người vô sản\". Luận điểm này nói về điều gì?",
+    "question": "Ai là chủ thể phát triển vùng dân tộc thiểu số?",
     "options": [
-      "Sự suy yếu của giai cấp tư sản.",
-      "Sự phát triển của lực lượng sản xuất.",
-      "Sự trưởng thành của giai cấp công nhân.",
-      "Sự cần thiết của bạo lực cách mạng."
+      "Chính phủ trung ương",
+      "Các tổ chức quốc tế",
+      "Chính dân tộc thiểu số",
+      "Doanh nghiệp tư nhân"
     ],
     "correct": 2
   },
   {
     "id": 33,
-    "question": "Điều kiện ra đời chủ nghĩa xã hội theo chủ nghĩa Mác – Lênin có những điều kiện chủ yếu nào?",
+    "question": "Bản sắc văn hóa của mỗi dân tộc cần được làm gì?",
     "options": [
-      "Điều kiện kinh tế và điều kiện chính trị - xã hội.",
-      "Điều kiện tự nhiên và điều kiện xã hội.",
-      "Điều kiện văn hóa và điều kiện kinh tế.",
-      "Điều kiện quốc tế và điều kiện trong nước."
+      "Xóa bỏ",
+      "Giữ gìn và phát huy",
+      "Đồng nhất hóa",
+      "Thay đổi hoàn toàn"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 34,
-    "question": "Sự phát triển của lực lượng sản xuất và sự trưởng thành thực sự của giai cấp công nhân là tiền đề, điều kiện cho sự ra đời của hình thái kinh tế - xã hội nào?",
+    "question": "Vùng dân tộc thiểu số có vị trí như thế nào về mặt chiến lược?",
     "options": [
-      "Hình thái kinh tế - xã hội phong kiến.",
-      "Hình thái kinh tế - xã hội tư bản chủ nghĩa.",
-      "Hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
-      "Hình thái kinh tế - xã hội nô lệ."
+      "Không quan trọng",
+      "Đặc biệt quan trọng",
+      "Bình thường",
+      "Thứ yếu"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 35,
-    "question": "Theo chủ nghĩa Mác – Lênin, mâu thuẫn cơ bản của chủ nghĩa tư bản là mâu thuẫn giữa cái gì?",
+    "question": "Dân tộc thiểu số tham gia vào công cuộc nào của đất nước?",
     "options": [
-      "Giữa giai cấp công nhân và giai cấp nông dân.",
-      "Giữa lực lượng sản xuất mang tính chất xã hội hóa và chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất.",
-      "Giữa thành thị và nông thôn.",
-      "Giữa các quốc gia tư bản."
+      "Chỉ sản xuất nông nghiệp",
+      "Đổi mới, xây dựng xã hội chủ nghĩa",
+      "Chỉ bảo vệ biên giới",
+      "Không tham gia"
     ],
     "correct": 1
   },
   {
     "id": 36,
-    "question": "Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa biểu hiện rõ nét nhất thông qua các yếu tố nào?",
+    "question": "Trong thời kỳ quá độ lên XHCN, vấn đề dân tộc là nhiệm vụ như thế nào?",
     "options": [
-      "Sự phân hóa giàu nghèo.",
-      "Các cuộc khủng hoảng kinh tế chu kỳ, nạn thất nghiệp, sự bần cùng hóa của giai cấp công nhân.",
-      "Các phong trào biểu tình của công nhân.",
-      "Các cuộc chiến tranh giữa các nước tư bản."
+      "Đơn giản",
+      "Phức tạp",
+      "Dễ dàng",
+      "Không cần giải quyết"
     ],
     "correct": 1
   },
   {
     "id": 37,
-    "question": "Sự phát triển mạnh mẽ của nền đại công nghiệp đã làm cho lực lượng sản xuất xã hội như thế nào?",
+    "question": "Nguyên tắc 'bình đẳng' có nghĩa là gì?",
     "options": [
-      "Phát triển chậm lại.",
-      "Mang tính chất xã hội hóa ngày càng cao.",
-      "Chỉ phục vụ cho lợi ích cá nhân.",
-      "Không có sự thay đổi đáng kể."
+      "Một dân tộc thống trị",
+      "Tất cả các dân tộc đều bình đẳng về quyền và nghĩa vụ",
+      "Phân biệt giữa các dân tộc",
+      "Ưu tiên nhóm đông người"
     ],
     "correct": 1
   },
   {
     "id": 38,
-    "question": "Trong điều kiện chính trị - xã hội cho sự ra đời của chủ nghĩa xã hội, cuộc đấu tranh giữa giai cấp công nhân và giai cấp tư sản trở nên như thế nào?",
+    "question": "Dân tộc thiểu số có quyền gì theo nguyên tắc 'tự quyết'?",
     "options": [
-      "Hòa hoãn và ít gay gắt.",
-      "Gay gắt và có tính chất chính trị rõ rệt.",
-      "Chỉ mang tính chất kinh tế.",
-      "Dần dần suy yếu."
+      "Không có quyền tự quyết",
+      "Quyền tự quyết trong phát triển kinh tế, văn hóa",
+      "Chỉ nghe theo chỉ đạo",
+      "Tách khỏi cộng đồng"
     ],
     "correct": 1
   },
   {
     "id": 39,
-    "question": "Theo C. Mác và Ph. Ăngghen, sự phát triển của lực lượng sản xuất và sự trưởng thành của giai cấp công nhân là tiền đề kinh tế - xã hội dẫn tới sự sụp đổ không tránh khỏi của chế độ nào?",
+    "question": "Cuộc sống 'tốt đời, đẹp đạo' nghĩa là gì?",
     "options": [
-      "Chế độ phong kiến.",
-      "Chế độ nô lệ.",
-      "Chế độ tư bản chủ nghĩa.",
-      "Chế độ gia trưởng."
+      "Chỉ tập trung vào tôn giáo",
+      "Chỉ tập trung vào kinh tế",
+      "Hài hòa giữa đời sống vật chất và tinh thần",
+      "Không quan tâm đến tôn giáo"
     ],
     "correct": 2
   },
   {
     "id": 40,
-    "question": "Vai trò của Đảng Cộng sản trong cách mạng vô sản là gì?",
+    "question": "Động lực chủ yếu của cách mạng Việt Nam là gì?",
     "options": [
-      "Là tổ chức tài chính.",
-      "Là đội tiên phong lãnh đạo giai cấp công nhân và nhân dân lao động.",
-      "Là cơ quan tư vấn pháp luật.",
-      "Là tổ chức từ thiện."
+      "Chỉ giai cấp công nhân",
+      "Khối đại đoàn kết toàn dân tộc",
+      "Chỉ trí thức",
+      "Chỉ dân tộc Kinh"
     ],
     "correct": 1
   },
   {
     "id": 41,
-    "question": "Đặc trưng đầu tiên và cơ bản của chủ nghĩa xã hội được khái quát là gì?",
+    "question": "Nền văn hóa Việt Nam được đặc trưng bởi điều gì?",
     "options": [
-      "Là một nền kinh tế phát triển cao.",
-      "Là xã hội giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người.",
-      "Là một chế độ chính trị dân chủ.",
-      "Là một nền văn hóa tiên tiến."
+      "Đơn sắc",
+      "Phong phú, đa dạng từ 54 dân tộc",
+      "Chỉ có một nền văn hóa",
+      "Sao chép văn hóa nước ngoài"
     ],
     "correct": 1
   },
   {
     "id": 42,
-    "question": "Mục đích tối cao của chủ nghĩa xã hội là gì?",
+    "question": "Vai trò của Đảng và Nhà nước đối với dân tộc thiểu số là gì?",
     "options": [
-      "Xây dựng một nhà nước hùng mạnh.",
-      "Phát triển kinh tế vượt trội so với chủ nghĩa tư bản.",
-      "Phát triển con người toàn diện.",
-      "Xóa bỏ hoàn toàn sở hữu tư nhân."
+      "Kiểm soát",
+      "Lãnh đạo, hỗ trợ phát triển",
+      "Bỏ mặc",
+      "Phân biệt đối xử"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 43,
-    "question": "Theo C. Mác và Ph. Ăngghen, việc thay thế xã hội tư bản chủ nghĩa bằng xã hội cộng sản chủ nghĩa sẽ xóa bỏ \"tình trạng dân tộc này bóc lột dân tộc khác\" khi nào?",
+    "question": "Mỗi dân tộc cần có 'không gian' để làm gì?",
     "options": [
-      "Khi xóa bỏ tình trạng người bóc lột người.",
-      "Thông qua các hiệp định quốc tế.",
-      "Khi tất cả các dân tộc đều có kinh tế phát triển.",
-      "Khi văn hóa các dân tộc được đồng nhất."
+      "Tách rời khỏi cộng đồng",
+      "Cất lên tiếng nói riêng, phát triển bản sắc",
+      "Cạnh tranh với nhau",
+      "Đối lập với các dân tộc khác"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 44,
-    "question": "V.I. Lênin đã chỉ ra mục đích cao nhất, cuối cùng của những cải tạo xã hội chủ nghĩa là gì?",
+    "question": "Tinh thần của dân tộc thiểu số trong phát triển vùng miền là gì?",
     "options": [
-      "Thực hiện năng lực, hưởng theo nhu cầu.",
-      "Thiết lập một xã hội không hạn chế việc tước đoạt các công xưởng.",
-      "Xây dựng nền công nghiệp hiện đại.",
-      "Phát triển nông nghiệp."
+      "Ỷ lại",
+      "Tự lực, tự cường",
+      "Thụ động",
+      "Chờ đợi"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 45,
-    "question": "Đặc trưng về phương diện kinh tế của chủ nghĩa xã hội là gì?",
+    "question": "Sức mạnh của khối đại đoàn kết đến từ đâu?",
     "options": [
-      "Nền kinh tế phát triển dựa trên lực lượng sản xuất hiện đại và chế độ chiếm hữu tư nhân về tư liệu sản xuất chủ yếu.",
-      "Nền kinh tế phát triển dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
-      "Nền kinh tế dựa hoàn toàn vào thị trường tự do.",
-      "Nền kinh tế kế hoạch hóa tập trung hoàn toàn."
+      "Chỉ từ một dân tộc",
+      "Từ sự đoàn kết của tất cả các dân tộc và tầng lớp",
+      "Từ bên ngoài",
+      "Từ chính phủ"
     ],
     "correct": 1
   },
   {
     "id": 46,
-    "question": "Mục tiêu cao nhất của chủ nghĩa xã hội về mặt kinh tế - xã hội là gì?",
+    "question": "Vùng dân tộc thiểu số và miền núi chủ yếu ở khu vực nào?",
     "options": [
-      "Gia tăng lợi nhuận tối đa.",
-      "Giải phóng con người trên cơ sở điều kiện kinh tế - xã hội phát triển.",
-      "Cạnh tranh với các nước tư bản.",
-      "Xây dựng công nghiệp nặng."
+      "Đồng bằng",
+      "Núi cao, biên giới",
+      "Thành phố",
+      "Vùng ven biển"
     ],
     "correct": 1
   },
   {
     "id": 47,
-    "question": "Chủ nghĩa xã hội có chế độ xã hội như thế nào về sở hữu tư liệu sản xuất chủ yếu?",
+    "question": "Giá trị văn hóa của dân tộc thiểu số có vai trò gì?",
     "options": [
-      "Sở hữu tư nhân.",
-      "Sở hữu hỗn hợp.",
-      "Chế độ công hữu.",
-      "Sở hữu nhà nước."
+      "Không có giá trị",
+      "Làm phong phú nền văn hóa quốc gia",
+      "Cần bị loại bỏ",
+      "Chỉ mang tính bảo tàng"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 48,
-    "question": "V.I. Lênin nói gì về năng suất lao động trong chủ nghĩa xã hội so với chủ nghĩa tư bản?",
+    "question": "Dân tộc thiểu số là bộ phận như thế nào của cộng đồng quốc gia?",
     "options": [
-      "Năng suất lao động sẽ thấp hơn.",
-      "Năng suất lao động sẽ ngang bằng.",
-      "Năng suất lao động phải cao hơn.",
-      "Năng suất lao động không phải là yếu tố quan trọng."
+      "Có thể tách rời",
+      "Không thể tách rời",
+      "Độc lập",
+      "Tách biệt"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 49,
-    "question": "Theo V.I. Lênin, trong nước Nga Xôviết thì chủ nghĩa tư bản nhà nước chiếm bao nhiêu phần tư chủ nghĩa xã hội?",
-    "options": ["Một phần tư.", "Hai phần tư.", "Ba phần tư.", "Bốn phần tư."],
-    "correct": 2
+    "question": "An ninh chính trị ở vùng biên giới phụ thuộc vào ai?",
+    "options": [
+      "Chỉ quân đội chính quy",
+      "Dân tộc thiểu số cư trú tại đó",
+      "Lực lượng công an",
+      "Không ai"
+    ],
+    "correct": 1
   },
   {
     "id": 50,
-    "question": "Theo Ph. Ăngghen, việc cải tạo xã hội hiện nay một cách dân dã cần phải dựa trên cơ sở nào?",
+    "question": "Mục đích cao nhất của chính sách dân tộc là gì?",
     "options": [
-      "Loại bỏ hoàn toàn chủ nghĩa tư bản.",
-      "Thiết lập ngay một nền kinh tế công hữu.",
-      "Khối lượng tư liệu sản xuất cần thiết cho việc cải tạo đó.",
-      "Phân phối theo nhu cầu."
+      "Phân chia các dân tộc",
+      "Bình đẳng, tương trợ để cùng tiến bộ lên XHCN",
+      "Ưu tiên một vài dân tộc",
+      "Đồng hóa văn hóa"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 51,
-    "question": "Đặc trưng về phương diện chính trị của chủ nghĩa xã hội là gì?",
+    "question": "Trong ẩn dụ dàn nhạc, mỗi nhạc cụ cần được làm gì?",
     "options": [
-      "Là một chế độ độc tài.",
-      "Là chế độ xã hội do nhân dân lao động làm chủ, nhà nước pháp quyền xã hội chủ nghĩa.",
-      "Là chế độ đa đảng.",
-      "Là chế độ quân chủ lập hiến."
+      "Thay đổi hoàn toàn",
+      "Điều chỉnh (hỗ trợ phát triển)",
+      "Loại bỏ",
+      "Bỏ qua"
     ],
     "correct": 1
   },
   {
     "id": 52,
-    "question": "Theo C. Mác và Ph. Ăngghen, bước thứ nhất trong cuộc cách mạng công nhân là gì?",
+    "question": "Lễ hội truyền thống của dân tộc thiểu số có ý nghĩa gì?",
     "options": [
-      "Xây dựng nền kinh tế thị trường.",
-      "Giành lấy dân chủ, tức là giai cấp vô sản biến thành giai cấp thống trị.",
-      "Cải cách chế độ bầu cử.",
-      "Hợp tác với giai cấp tư sản."
+      "Lãng phí thời gian",
+      "Bảo tồn và phát huy bản sắc văn hóa",
+      "Không còn cần thiết",
+      "Chỉ để du lịch"
     ],
     "correct": 1
   },
   {
     "id": 53,
-    "question": "V.I. Lênin coi chính quyền Xôviết ở nước Nga Xôviết là gì?",
+    "question": "Ngôn ngữ của các dân tộc thiểu số cần được làm gì?",
     "options": [
-      "Một chế độ độc tài toàn trị.",
-      "Một kiểu nhà nước chuyên chính vô sản, một chế độ dân chủ ưu việt gấp triệu lần so với chế độ dân chủ tư sản.",
-      "Một chính quyền quân sự.",
-      "Một chính quyền lâm thời."
+      "Xóa bỏ",
+      "Bảo tồn và phát triển",
+      "Thay thế bằng tiếng Việt",
+      "Quên đi"
     ],
     "correct": 1
   },
   {
     "id": 54,
-    "question": "Chuyên chính vô sản có vai trò gì trong việc xây dựng chủ nghĩa xã hội?",
+    "question": "Vai trò của dân tộc thiểu số đối với Tổ quốc là gì?",
     "options": [
-      "Đàn áp mọi tiếng nói đối lập.",
-      "Là công cụ để giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp tư sản, tiến hành xây dựng một xã hội không giai cấp.",
-      "Duy trì quyền lực của giai cấp thống trị.",
-      "Loại bỏ mọi hình thức dân chủ."
+      "Không quan trọng",
+      "Vô cùng quan trọng trong xây dựng và bảo vệ Tổ quốc",
+      "Thứ yếu",
+      "Có thể thay thế"
     ],
     "correct": 1
   },
   {
     "id": 55,
-    "question": "Đặc trưng về mặt văn hóa, tư tưởng của chủ nghĩa xã hội là gì?",
+    "question": "Tiềm năng du lịch sinh thái ở vùng dân tộc thiểu số đến từ đâu?",
     "options": [
-      "Nền văn hóa duy trì các giá trị truyền thống phong kiến.",
-      "Nền văn hóa phát triển cao, kế thừa và phát huy những giá trị của văn hóa dân tộc và tinh hoa văn hóa nhân loại.",
-      "Nền văn hóa bị kiểm soát chặt chẽ bởi nhà nước.",
-      "Nền văn hóa chỉ tập trung vào phát triển khoa học kỹ thuật."
+      "Không có tiềm năng",
+      "Văn hóa đa dạng và thiên nhiên phong phú",
+      "Chỉ có cảnh đẹp",
+      "Chỉ có văn hóa"
     ],
     "correct": 1
   },
   {
     "id": 56,
-    "question": "Văn hóa trong chủ nghĩa xã hội được coi là yếu tố gì của xã hội?",
+    "question": "Chính sách của Đảng về dân tộc thiểu số đã được thực hiện trong bao lâu?",
     "options": [
-      "Văn hóa là yếu tố thứ yếu.",
-      "Văn hóa là nền tảng tinh thần của xã hội, mục tiêu, động lực của phát triển kinh tế.",
-      "Văn hóa chỉ là một công cụ phục vụ kinh tế.",
-      "Kinh tế là yếu tố quyết định hoàn toàn văn hóa."
+      "Hơn 50 năm",
+      "Hơn 70 năm",
+      "Hơn 90 năm",
+      "Hơn 100 năm"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": 57,
-    "question": "V.I. Lênin đã luận giải sâu sắc về \"văn hóa vô sản\" trong quá trình xây dựng chủ nghĩa xã hội ở nước Nga Xôviết là gì?",
+    "question": "Phát triển toàn diện bao gồm những lĩnh vực nào?",
     "options": [
-      "Nền văn hóa hoàn toàn mới, không kế thừa giá trị cũ.",
-      "Nền văn hóa xã hội chủ nghĩa, nghĩa là có văn hóa vô sản mới giải quyết được mọi vấn đề từ kinh tế, chính trị đến văn hóa, con người.",
-      "Nền văn hóa chỉ dành riêng cho giai cấp công nhân.",
-      "Nền văn hóa được xây dựng một cách tự phát."
+      "Chỉ kinh tế",
+      "Kinh tế, văn hóa, xã hội",
+      "Chỉ văn hóa",
+      "Chỉ xã hội"
     ],
     "correct": 1
   },
   {
     "id": 58,
-    "question": "Để xây dựng nền văn hóa xã hội chủ nghĩa, cần phải biết kế thừa những giá trị nào?",
+    "question": "Dân tộc thiểu số đóng góp vào nền kinh tế quốc gia qua con đường nào?",
     "options": [
-      "Chỉ những giá trị do giai cấp vô sản tạo ra.",
-      "Những giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại.",
-      "Chỉ những giá trị văn hóa của phương Tây.",
-      "Chỉ những giá trị văn hóa truyền thống lạc hậu."
+      "Không đóng góp",
+      "Phát triển vùng chiến lược, nông lâm nghiệp, khoáng sản",
+      "Chỉ nộp thuế",
+      "Chỉ làm công nhân"
     ],
     "correct": 1
   },
   {
     "id": 59,
-    "question": "Đặc trưng về quan hệ giữa các dân tộc và quan hệ quốc tế của chủ nghĩa xã hội là gì?",
+    "question": "Quan hệ giữa các dân tộc trong XHCN Việt Nam là gì?",
     "options": [
-      "Duy trì sự cạnh tranh giữa các dân tộc.",
-      "Đảm bảo bình đẳng, đoàn kết, hữu nghị, hợp tác với nhân dân các nước trên thế giới.",
-      "Tập trung vào lợi ích quốc gia mà không quan tâm đến dân tộc khác.",
-      "Xóa bỏ hoàn toàn biên giới quốc gia."
+      "Cạnh tranh",
+      "Bình đẳng, đoàn kết, tương trợ",
+      "Phân biệt",
+      "Xa lánh"
     ],
     "correct": 1
   },
   {
     "id": 60,
-    "question": "Khẩu hiệu \"Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại!\" nói lên điều gì?",
+    "question": "Thương mại qua biên giới ở vùng dân tộc thiểu số có ý nghĩa gì?",
     "options": [
-      "Sự cần thiết của bạo lực cách mạng.",
-      "Sự đoàn kết của giai cấp vô sản và các dân tộc bị áp bức để lật đổ chủ nghĩa tư bản và chủ nghĩa đế quốc.",
-      "Sự ưu việt của một dân tộc cụ thể.",
-      "Sự loại bỏ mọi khác biệt dân tộc."
+      "Không có ý nghĩa",
+      "Phát triển kinh tế, tăng thu nhập cho người dân",
+      "Chỉ có hại",
+      "Không cần thiết"
     ],
     "correct": 1
   },
   {
     "id": 61,
-    "question": "Chủ nghĩa xã hội mở rộng ảnh hưởng và góp phần tích cực vào cuộc đấu tranh chung của nhân dân thế giới vì mục tiêu gì?",
+    "question": "Công cuộc đổi mới cần động lực từ đâu?",
     "options": [
-      "Vì mục tiêu kinh tế.",
-      "Vì mục tiêu hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.",
-      "Vì mục tiêu giành quyền bá chủ thế giới.",
-      "Vì mục tiêu thống nhất toàn cầu."
+      "Chỉ từ chính phủ",
+      "Từ khối đại đoàn kết toàn dân tộc",
+      "Từ nước ngoài",
+      "Không cần động lực"
     ],
     "correct": 1
   },
   {
     "id": 62,
-    "question": "Về phương diện kinh tế, thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội thường tồn tại những thành phần kinh tế nào?",
+    "question": "Nền văn hóa tiên tiến cần có đặc điểm gì?",
     "options": [
-      "Chỉ có thành phần kinh tế xã hội chủ nghĩa.",
-      "Chỉ có thành phần kinh tế tư bản nhà nước.",
-      "Nhiều thành phần khác nhau, đan xen (gia trưởng, hàng hóa nhỏ, TBCN nhà nước, TBCN, XHCN).",
-      "Chỉ có thành phần kinh tế nhà nước."
+      "Chỉ học tập nước ngoài",
+      "Đậm đà bản sắc dân tộc và tiếp thu tinh hoa nhân loại",
+      "Từ bỏ truyền thống",
+      "Đóng cửa không giao lưu"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 63,
-    "question": "Theo V.I. Lênin, trong nước Nga Xôviết thời kỳ quá độ tồn tại mấy thành phần kinh tế?",
-    "options": ["Ba.", "Bốn.", "Năm.", "Sáu."],
-    "correct": 2
+    "question": "Vùng dân tộc thiểu số giàu tiềm năng về điều gì?",
+    "options": [
+      "Chỉ có đất đai",
+      "Khoáng sản, thủy điện, du lịch, nông lâm nghiệp",
+      "Không có gì",
+      "Chỉ có rừng"
+    ],
+    "correct": 1
   },
   {
     "id": 64,
-    "question": "Năm thành phần kinh tế mà V.I. Lênin đã đề cập ở nước Nga trong thời kỳ quá độ là gì?",
+    "question": "Cơ sở chính trị - xã hội cho sự lãnh đạo của Đảng được củng cố bằng cách nào?",
     "options": [
-      "Kinh tế nhà nước, kinh tế tập thể, kinh tế tư nhân, kinh tế có vốn đầu tư nước ngoài, kinh tế hỗn hợp.",
-      "Kinh tế gia trưởng, kinh tế hàng hóa nhỏ, kinh tế tư bản nhà nước, kinh tế tư bản, kinh tế xã hội chủ nghĩa.",
-      "Kinh tế công nghiệp, kinh tế nông nghiệp, kinh tế dịch vụ, kinh tế tri thức, kinh tế xanh.",
-      "Kinh tế quốc doanh, kinh tế hợp tác xã, kinh tế cá thể, kinh tế tiểu chủ, kinh tế tư bản tư nhân."
+      "Bằng cưỡng chế",
+      "Bằng sự đoàn kết và niềm tin của nhân dân các dân tộc",
+      "Bằng luật pháp",
+      "Không cần củng cố"
     ],
     "correct": 1
   },
   {
     "id": 65,
-    "question": "Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội được Mác – Lênin xác định là một thời kỳ có tính chất gì về mặt đấu tranh giai cấp?",
+    "question": "Trong thời kỳ quá độ, quan hệ giữa các dân tộc cần như thế nào?",
     "options": [
-      "Không còn đấu tranh giai cấp.",
-      "Đấu tranh giai cấp gay gắt, phức tạp.",
-      "Đấu tranh giai cấp hòa hoãn.",
-      "Chỉ đấu tranh kinh tế."
+      "Cạnh tranh gay gắt",
+      "Hòa hợp, đoàn kết",
+      "Tách biệt",
+      "Không quan hệ"
     ],
     "correct": 1
   },
   {
     "id": 66,
-    "question": "Trong thời kỳ quá độ, việc xây dựng xã hội không giai cấp có ý nghĩa như thế nào?",
+    "question": "Trật tự an toàn xã hội ở vùng biên giới được đảm bảo bởi ai?",
     "options": [
-      "Hoàn thành ngay sau khi giành chính quyền.",
-      "Là nhiệm vụ trung tâm.",
-      "Không phải là mục tiêu chính.",
-      "Là nhiệm vụ thứ yếu."
+      "Chỉ công an",
+      "Sự tham gia tích cực của dân tộc thiểu số",
+      "Quân đội",
+      "Không cần đảm bảo"
     ],
     "correct": 1
   },
   {
     "id": 67,
-    "question": "V.I. Lênin nhấn mạnh cần phải \"bắc những chiếc cầu vững chắc\" qua chủ nghĩa tư bản nhà nước để tiến lên chủ nghĩa xã hội đối với những nước nào?",
+    "question": "Mỗi dân tộc thiểu số có đặc điểm gì riêng?",
     "options": [
-      "Các nước đã phát triển cao.",
-      "Các nước chưa trải qua chủ nghĩa tư bản phát triển.",
-      "Các nước đang phát triển kinh tế thị trường.",
-      "Các nước có nền kinh tế hỗn hợp."
+      "Không có gì khác biệt",
+      "Bản sắc văn hóa riêng biệt",
+      "Giống hệt nhau",
+      "Không cần bản sắc"
     ],
     "correct": 1
   },
   {
     "id": 68,
-    "question": "Theo V.I. Lênin, để xây dựng chủ nghĩa xã hội, nước chưa trải qua chủ nghĩa tư bản phát triển, cần phải học hỏi kinh nghiệm các nước phát triển theo cách nào?",
+    "question": "Hệ thống tư liệu sản xuất ở vùng dân tộc thiểu số cần được làm gì?",
     "options": [
-      "Dùng cả hai tay mà lấy những cái tốt của nước ngoài.",
-      "Từ chối mọi kinh nghiệm nước ngoài.",
-      "Chỉ học hỏi kinh nghiệm quân sự.",
-      "Chỉ học hỏi kinh nghiệm về khoa học cơ bản."
+      "Bỏ mặc",
+      "Đầu tư, nâng cấp để phát triển",
+      "Giữ nguyên lạc hậu",
+      "Không quan tâm"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 69,
-    "question": "Đặc trưng về phương diện chính trị của chủ nghĩa xã hội khẳng định vai trò của ai là nòng cốt?",
+    "question": "Dân tộc thiểu số cần được hỗ trợ về lĩnh vực nào?",
     "options": [
-      "Giai cấp tư sản.",
-      "Nhân dân lao động.",
-      "Đội ngũ trí thức.",
-      "Các nhà quản lý."
+      "Chỉ kinh tế",
+      "Kinh tế, giáo dục, y tế, văn hóa, hạ tầng",
+      "Không cần hỗ trợ",
+      "Chỉ giáo dục"
     ],
     "correct": 1
   },
   {
     "id": 70,
-    "question": "Về phương diện chính trị, thời kỳ quá độ lên chủ nghĩa xã hội, việc thiết lập và tăng cường chuyên chính vô sản có ý nghĩa gì?",
+    "question": "Ngày hội Đại đoàn kết toàn dân tộc là ngày nào?",
     "options": [
-      "Đảm bảo dân chủ cho thiểu số.",
-      "Thực chất của nó là việc giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp tư sản, tiến hành xây dựng một xã hội không giai cấp.",
-      "Tạo ra chế độ đa đảng.",
-      "Chấm dứt hoàn toàn đấu tranh giai cấp ngay lập tức."
+      "18/10",
+      "18/11",
+      "18/12",
+      "18/1"
     ],
     "correct": 1
   },
   {
     "id": 71,
-    "question": "Chủ nghĩa xã hội có nền văn hóa như thế nào để làm động lực phát triển kinh tế?",
+    "question": "Trong ẩn dụ dàn nhạc, tiếng nào cao hơn, thấp hơn?",
     "options": [
-      "Văn hóa bị coi nhẹ.",
-      "Văn hóa là nền tảng tinh thần của xã hội, mục tiêu, động lực của phát triển kinh tế.",
-      "Văn hóa chỉ là hoạt động giải trí.",
-      "Văn hóa chỉ mang tính chất truyền thống."
+      "Dân tộc đông người cao hơn",
+      "Không có tiếng nào cao hơn, thấp hơn - tất cả bình đẳng",
+      "Dân tộc Kinh cao hơn",
+      "Dân tộc thiểu số thấp hơn"
     ],
     "correct": 1
   },
   {
     "id": 72,
-    "question": "Luận điểm \"Người ta chỉ có thể trở thành người cộng sản khi biết làm giàu tri thức của mình bằng sự hiểu biết tất cả những kho tàng tri thức mà nhân loại đã tạo ra\" là của ai?",
-    "options": ["C. Mác.", "Ph. Ăngghen.", "V.I. Lênin.", "Hồ Chí Minh."],
-    "correct": 2
+    "question": "Lòng yêu nước của dân tộc thiểu số thể hiện qua điều gì?",
+    "options": [
+      "Chỉ lời nói",
+      "Tham gia xây dựng và bảo vệ Tổ quốc",
+      "Không thể hiện",
+      "Chỉ qua lễ hội"
+    ],
+    "correct": 1
   },
   {
     "id": 73,
-    "question": "Vấn đề giải quyết mối quan hệ giữa giai cấp và dân tộc trong chủ nghĩa xã hội có quan hệ như thế nào?",
+    "question": "Sự phát triển bền vững của đất nước phụ thuộc vào điều gì?",
     "options": [
-      "Tách rời, không liên quan.",
-      "Có quan hệ biện chứng.",
-      "Giai cấp phủ nhận dân tộc.",
-      "Dân tộc phủ nhận giai cấp."
+      "Chỉ vùng đồng bằng",
+      "Sự phát triển toàn diện của cả nước, kể cả vùng dân tộc thiểu số",
+      "Chỉ thành phố lớn",
+      "Không liên quan đến vùng dân tộc thiểu số"
     ],
     "correct": 1
   },
   {
     "id": 74,
-    "question": "Trong cương lĩnh về vấn đề dân tộc, V.I. Lênin đã chỉ ra nội dung gì của nguyên tắc giải quyết vấn đề dân tộc?",
+    "question": "Thu nhập bình quân của vùng dân tộc thiểu số cần như thế nào?",
     "options": [
-      "Các dân tộc hoàn toàn bình đẳng.",
-      "Các dân tộc được quyền tự quyết.",
-      "Các dân tộc gần nhau trong cuộc đấu tranh chung.",
-      "Cả A, B và C đều đúng."
+      "Giữ nguyên hiện trạng",
+      "Thu hẹp khoảng cách với bình quân chung cả nước",
+      "Không cần quan tâm",
+      "Càng thấp càng tốt"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "id": 75,
-    "question": "Mục đích của cải tạo xã hội chủ nghĩa về mặt xã hội là gì?",
+    "question": "Đảng Cộng sản Việt Nam lãnh đạo dân tộc thiểu số theo tinh thần nào?",
     "options": [
-      "Xóa bỏ hoàn toàn sự phân chia xã hội giai cấp.",
-      "Tạo ra sự cạnh tranh gay gắt giữa các tầng lớp xã hội.",
-      "Duy trì sự phân hóa giàu nghèo.",
-      "Giới hạn quyền tự do cá nhân."
+      "Độc đoán",
+      "Bình đẳng, tôn trọng, hỗ trợ phát triển",
+      "Bỏ mặc",
+      "Cưỡng ép"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 76,
-    "question": "Chủ nghĩa xã hội có nền kinh tế phát triển cao, quan hệ sản xuất dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu và ___________?",
+    "question": "Vị trí địa lý của vùng dân tộc thiểu số có đặc điểm gì?",
     "options": [
-      "Chế độ tư hữu về tư liệu sản xuất.",
-      "Tổ chức, quản lý có hiệu quả, năng suất lao động cao và phân phối chủ yếu theo lao động.",
-      "Phân phối theo nhu cầu.",
-      "Phân phối bình quân."
+      "Thuận lợi giao thông",
+      "Núi cao, biên giới, khó khăn về địa hình",
+      "Đồng bằng rộng",
+      "Gần thành phố"
     ],
     "correct": 1
   },
   {
     "id": 77,
-    "question": "V.I. Lênin cho rằng, nhân loại chỉ có thể tiến thẳng lên chủ nghĩa xã hội khi nào?",
+    "question": "Xã hội chủ nghĩa Việt Nam cần xây dựng trên cơ sở nào?",
     "options": [
-      "Khi là chế độ và chế độ phân phối sản phẩm lao động của mọi người.",
-      "Khi còn duy trì chế độ tư hữu.",
-      "Khi năng suất lao động thấp hơn chủ nghĩa tư bản.",
-      "Khi chưa có đủ khối lượng tư liệu sản xuất."
+      "Chỉ một dân tộc",
+      "Khối đại đoàn kết của tất cả các dân tộc",
+      "Loại trừ dân tộc thiểu số",
+      "Phân biệt các dân tộc"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 78,
-    "question": "Theo C. Mác và Ph. Ăngghen, việc thay thế xã hội tư bản chủ nghĩa bằng xã hội cộng sản chủ nghĩa đòi hỏi phải tiến hành triệt để việc gì trước hết?",
+    "question": "Giáo dục ở vùng dân tộc thiểu số cần được chú trọng vì sao?",
     "options": [
-      "Giải phóng giai cấp.",
-      "Xóa bỏ tình trạng dân tộc này bóc lột dân tộc khác.",
-      "Giải phóng xã hội.",
-      "Xóa bỏ tình trạng người bóc lột người."
+      "Không cần chú trọng",
+      "Nâng cao dân trí, phát triển nguồn nhân lực",
+      "Lãng phí",
+      "Không hiệu quả"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "id": 79,
-    "question": "Mục tiêu của chủ nghĩa xã hội về việc giải quyết vấn đề dân tộc là gì?",
+    "question": "Y tế ở vùng dân tộc thiểu số cần được làm gì?",
     "options": [
-      "Xóa bỏ tình trạng dân tộc này bóc lột dân tộc khác.",
-      "Tạo ra sự ưu việt của một dân tộc.",
-      "Duy trì sự bất bình đẳng dân tộc.",
-      "Đồng nhất các dân tộc."
+      "Bỏ mặc",
+      "Đầu tư, nâng cao chất lượng chăm sóc sức khỏe",
+      "Giữ nguyên",
+      "Không cần thiết"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 80,
-    "question": "Tính ưu việt, sự ổn định và phát triển của chế độ xã hội chủ nghĩa không chỉ thể hiện ở lĩnh vực kinh tế, chính trị mà còn ở lĩnh vực nào?",
+    "question": "Hạ tầng cơ sở ở vùng dân tộc thiểu số có ý nghĩa gì?",
     "options": [
-      "Lĩnh vực văn hóa.",
-      "Lĩnh vực quân sự.",
-      "Lĩnh vực công nghệ.",
-      "Lĩnh vực thể thao."
+      "Không quan trọng",
+      "Nền tảng cho phát triển kinh tế - xã hội",
+      "Chỉ để trang trí",
+      "Không cần thiết"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 81,
-    "question": "V.I. Lênin khẳng định: \"Chính quyền Xô viết với bất cứ chế độ dân chủ tư sản nào, cũng dân chủ hơn _________ lần\".",
-    "options": ["Một.", "Mười.", "Gấp triệu.", "Ngàn."],
-    "correct": 2
+    "question": "Công tác giảm nghèo ở vùng dân tộc thiểu số cần như thế nào?",
+    "options": [
+      "Chậm chạp",
+      "Nhanh và bền vững",
+      "Không cần giảm nghèo",
+      "Hình thức"
+    ],
+    "correct": 1
   },
   {
     "id": 82,
-    "question": "Trong xã hội xã hội chủ nghĩa, quyền làm chủ của nhân dân lao động được thực hiện thông qua hệ thống quản lý xã hội ngày càng như thế nào?",
+    "question": "Vai trò chủ thể của dân tộc thiểu số nghĩa là gì?",
     "options": [
-      "Ngày càng tập trung.",
-      "Ngày càng hoàn thiện và hiệu quả.",
-      "Ngày càng độc đoán.",
-      "Ngày càng kém hiệu quả."
+      "Thụ động chờ đợi",
+      "Tự mình là người quyết định và thực hiện phát triển vùng miền",
+      "Không có vai trò",
+      "Chỉ nghe lệnh"
     ],
     "correct": 1
   },
   {
     "id": 83,
-    "question": "Các nhà sáng lập chủ nghĩa xã hội khoa học đặc biệt quan tâm dự báo những đặc trưng của giai đoạn nào?",
+    "question": "Chính sách ưu đãi đối với dân tộc thiểu số nhằm mục đích gì?",
     "options": [
-      "Giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
-      "Giai đoạn đầu (giai đoạn thấp) của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
-      "Giai đoạn trung gian giữa chủ nghĩa tư bản và chủ nghĩa xã hội.",
-      "Giai đoạn chuyển tiếp giữa phong kiến và tư bản."
+      "Phân biệt đối xử",
+      "Bù đắp thiệt thòi, tạo điều kiện phát triển ngang bằng",
+      "Làm phụ thuộc",
+      "Không có mục đích"
     ],
     "correct": 1
   },
   {
     "id": 84,
-    "question": "Theo V.I. Lênin, chủ nghĩa xã hội cần phải hoàn thành nhiều nhiệm vụ cho các giai cấp khác nhau, trong đó có mục đích và nhiệm vụ cụ thể của chủ nghĩa xã hội là gì?",
+    "question": "Trong xây dựng XHCN, dân tộc thiểu số và dân tộc Kinh có quan hệ như thế nào?",
     "options": [
-      "Tạo ra các điều kiện về cơ sở vật chất - kỹ thuật và đời sống tinh thần để thiết lập xã hội cộng sản.",
-      "Duy trì chế độ tư bản.",
-      "Xóa bỏ mọi thành phần kinh tế.",
-      "Hạn chế sự phát triển của lực lượng sản xuất."
+      "Đối lập",
+      "Bình đẳng, đoàn kết, cùng phát triển",
+      "Cạnh tranh",
+      "Tách biệt"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 85,
-    "question": "Vấn đề cốt lõi của việc thiết lập chủ nghĩa xã hội là gì?",
+    "question": "Phong tục tập quán tốt đẹp của dân tộc thiểu số cần được làm gì?",
     "options": [
-      "Xây dựng nền văn hóa tiên tiến.",
-      "Thiết lập chế độ công hữu về tư liệu sản xuất chủ yếu.",
-      "Phát triển quan hệ quốc tế.",
-      "Đảm bảo dân chủ đa nguyên."
+      "Xóa bỏ",
+      "Giữ gìn và phát huy",
+      "Quên đi",
+      "Thay đổi hoàn toàn"
     ],
     "correct": 1
   },
   {
     "id": 86,
-    "question": "Chủ nghĩa xã hội cần phải phát triển trên cơ sở nào về năng suất lao động?",
+    "question": "Tín ngưỡng, tôn giáo của dân tộc thiểu số được đối xử như thế nào?",
     "options": [
-      "Năng suất lao động thấp hơn chủ nghĩa tư bản.",
-      "Năng suất lao động cao hơn chủ nghĩa tư bản.",
-      "Năng suất lao động ngang bằng chủ nghĩa tư bản.",
-      "Năng suất lao động không quan trọng."
+      "Bị cấm",
+      "Được tôn trọng và bảo vệ",
+      "Bị phân biệt",
+      "Không được công nhận"
     ],
     "correct": 1
   },
   {
     "id": 87,
-    "question": "Quan điểm \"Khi không hiểu rõ ràng gì có sự hiểu biết chính xác về nền văn hóa được sáng tạo ra trong toàn bộ quá trình phát triển của loài người và việc cải tạo nền văn hóa đó mới có thể xây dựng được nền văn hóa vô sản thì chúng ta sẽ không giải quyết được vấn đề\" là của ai?",
-    "options": ["C. Mác.", "Ph. Ăngghen.", "V.I. Lênin.", "Hồ Chí Minh."],
-    "correct": 2
+    "question": "Giai cấp công nhân, nông dân và trí thức trong các dân tộc thiểu số có vai trò gì?",
+    "options": [
+      "Không có vai trò",
+      "Lực lượng nòng cốt xây dựng XHCN",
+      "Vai trò thứ yếu",
+      "Chỉ là người lao động"
+    ],
+    "correct": 1
   },
   {
     "id": 88,
-    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, xã hội vừa có sự tồn tại đan xen giữa những yếu tố cũ và mới về phương diện nào?",
+    "question": "Công tác dân vận ở vùng dân tộc thiểu số cần chú ý điều gì?",
     "options": [
-      "Chỉ về kinh tế.",
-      "Về mọi phương diện - kinh tế, đạo đức, tinh thần.",
-      "Chỉ về chính trị.",
-      "Chỉ về văn hóa."
+      "Không cần chú ý gì",
+      "Tôn trọng đặc điểm văn hóa, phong tục tập quán",
+      "Áp đặt",
+      "Bỏ qua"
     ],
     "correct": 1
   },
   {
     "id": 89,
-    "question": "Luận điểm nào sau đây được C. Mác và Ph. Ăngghen khẳng định về sự phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "question": "Cán bộ công tác ở vùng dân tộc thiểu số cần có phẩm chất gì?",
     "options": [
-      "Hình thái kinh tế - xã hội cộng sản chủ nghĩa phát triển từ thấp đến cao qua hai giai đoạn.",
-      "Hình thái kinh tế - xã hội cộng sản chủ nghĩa chỉ có một giai đoạn phát triển.",
-      "Hình thái kinh tế - xã hội cộng sản chủ nghĩa không phát triển.",
-      "Hình thái kinh tế - xã hội cộng sản chủ nghĩa phát triển qua nhiều giai đoạn không xác định."
+      "Chỉ cần có trình độ",
+      "Tâm huyết, hiểu biết văn hóa địa phương, gần gũi nhân dân",
+      "Không cần gì",
+      "Chỉ cần quyền lực"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 90,
-    "question": "Mục tiêu của cải tạo xã hội chủ nghĩa về mặt xã hội là gì?",
+    "question": "Mục tiêu cuối cùng của chính sách dân tộc là gì?",
     "options": [
-      "Xóa bỏ sự phân chia xã hội giai cấp.",
-      "Tiếp tục duy trì các tầng lớp bóc lột.",
-      "Khuyến khích sự phân hóa giàu nghèo.",
-      "Giảm vai trò của người lao động."
+      "Chia rẽ các dân tộc",
+      "Tất cả các dân tộc cùng phát triển, no ấm, hạnh phúc",
+      "Chỉ phát triển kinh tế",
+      "Không có mục tiêu"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 91,
-    "question": "Việc thiết lập chế độ công hữu về tư liệu sản xuất chủ yếu trong chủ nghĩa xã hội nhằm mục đích gì?",
+    "question": "Bản sắc văn hóa và thống nhất quốc gia có mâu thuẫn không?",
     "options": [
-      "Để kiểm soát chặt chẽ nền kinh tế.",
-      "Để tạo ra sự bình đẳng trong sở hữu và phân phối.",
-      "Để loại bỏ hoàn toàn quyền sở hữu cá nhân.",
-      "Để tăng cường sức mạnh quân sự."
+      "Hoàn toàn mâu thuẫn",
+      "Không mâu thuẫn, bổ sung cho nhau",
+      "Phải chọn một trong hai",
+      "Luôn đối lập"
     ],
     "correct": 1
   },
   {
     "id": 92,
-    "question": "Đặc trưng về mặt kinh tế của chủ nghĩa xã hội đòi hỏi phải có sự quản lý xã hội như thế nào?",
+    "question": "Trong dàn nhạc dân tộc, tất cả các 'nhạc cụ' cần làm gì?",
     "options": [
-      "Quản lý lỏng lẻo.",
-      "Quản lý có hiệu quả.",
-      "Quản lý độc đoán.",
-      "Quản lý tự phát."
+      "Cạnh tranh để lấn át nhau",
+      "Hòa quyện tạo nên giai điệu hùng vĩ",
+      "Chơi riêng rẽ",
+      "Im lặng"
     ],
     "correct": 1
   },
   {
     "id": 93,
-    "question": "Theo V.I. Lênin, để tiến thẳng lên chủ nghĩa xã hội từ chủ nghĩa tư bản, nước Nga Xôviết cần phải thiết lập những nguyên tắc phân phối nào?",
+    "question": "Sự đa dạng dân tộc là điểm mạnh hay điểm yếu của Việt Nam?",
     "options": [
-      "Nguyên tắc phân phối theo nhu cầu.",
-      "Nguyên tắc phân phối theo lao động.",
-      "Nguyên tắc phân phối bình quân.",
-      "Nguyên tắc phân phối theo vốn."
+      "Điểm yếu cần khắc phục",
+      "Điểm mạnh cần phát huy",
+      "Không phải mạnh cũng không phải yếu",
+      "Là gánh nặng"
     ],
     "correct": 1
   },
   {
     "id": 94,
-    "question": "Sự khác biệt về chất giữa hình thái kinh tế - xã hội cộng sản chủ nghĩa so với hình thái kinh tế - xã hội ra đời trước đó, thể hiện ở bản chất nhân văn, nhân đạo, về sự nghiệp giải phóng giai cấp, giải phóng xã hội, giải phóng con người. Nhận định này là của ai?",
+    "question": "Chủ nghĩa xã hội Việt Nam có đặc điểm gì về dân tộc?",
     "options": [
-      "C. Mác.",
-      "Ph. Ăngghen.",
-      "C. Mác và Ph. Ăngghen.",
-      "V.I. Lênin."
+      "Chỉ của một dân tộc",
+      "Của cả cộng đồng 54 dân tộc anh em",
+      "Loại trừ dân tộc thiểu số",
+      "Phân biệt các dân tộc"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 95,
-    "question": "Chủ nghĩa xã hội là một chế độ chính trị như thế nào?",
+    "question": "Nguyên tắc 'tương trợ lẫn nhau' giữa các dân tộc có nghĩa là gì?",
     "options": [
-      "Độc tài.",
-      "Dân chủ, nhà nước pháp quyền xã hội chủ nghĩa.",
-      "Đa nguyên.",
-      "Quân chủ."
+      "Mỗi dân tộc tự lo",
+      "Các dân tộc giúp đỡ, hỗ trợ nhau cùng tiến bộ",
+      "Không cần giúp đỡ",
+      "Chỉ dân tộc đa số giúp dân tộc thiểu số"
     ],
     "correct": 1
   },
   {
     "id": 96,
-    "question": "Theo V.I. Lênin, việc cần phải có một thời kỳ quá độ \"khá lâu dài\" là điều cần thiết đối với những nước nào?",
+    "question": "Vấn đề dân tộc có thể giải quyết một sớm một chiều không?",
     "options": [
-      "Những nước đã trải qua chủ nghĩa tư bản phát triển.",
-      "Những nước chưa có chủ nghĩa tư bản phát triển.",
-      "Những nước có nền kinh tế mạnh.",
-      "Những nước có nền văn hóa tiên tiến."
+      "Có thể giải quyết ngay",
+      "Không, cần thời gian dài và nỗ lực kiên trì",
+      "Không cần giải quyết",
+      "Đã giải quyết xong"
     ],
     "correct": 1
   },
   {
     "id": 97,
-    "question": "Chủ nghĩa xã hội có nền văn hóa phát triển cao, kế thừa và phát huy những giá trị của văn hóa dân tộc và tinh hoa văn hóa nhân loại. Đồng thời cần chống lại điều gì?",
+    "question": "Trong thời kỳ hội nhập, văn hóa dân tộc thiểu số cần làm gì?",
     "options": [
-      "Các tư tưởng phản động, văn hóa phi vô sản, trái với những giá trị truyền thống tốt đẹp của dân tộc và của loài người.",
-      "Các giá trị văn hóa nước ngoài.",
-      "Sự phát triển của khoa học kỹ thuật.",
-      "Sự đa dạng trong văn hóa."
+      "Từ bỏ hoàn toàn",
+      "Giữ gìn bản sắc và tiếp thu tinh hoa thế giới",
+      "Đóng cửa không giao lưu",
+      "Sao chép văn hóa nước ngoài"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 98,
-    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội, về phương diện chính trị, có nhiệm vụ gì?",
+    "question": "Dân tộc thiểu số có quyền sử dụng ngôn ngữ, chữ viết của mình không?",
     "options": [
-      "Duy trì chế độ cũ.",
-      "Thiết lập, tăng cường chuyên chính vô sản.",
-      "Chấm dứt đấu tranh giai cấp.",
-      "Xây dựng chế độ đa đảng."
+      "Không được phép",
+      "Được pháp luật bảo vệ",
+      "Chỉ dùng tiếng Việt",
+      "Bị cấm"
     ],
     "correct": 1
   },
   {
     "id": 99,
-    "question": "V.I. Lênin nhấn mạnh rằng cần phải học hỏi kinh nghiệm các nước phát triển theo cách thức \"Dùng cả hai tay mà lấy những cái tốt của nước ngoài: chính quyền Xôviết + trật tự ở đường sắt Phổ + kỹ thuật và các tổ chức các tơ - rớt ở Mỹ + ngành giáo dục quốc dân Mỹ...\" để tạo ra cái gì?",
+    "question": "Tiếng nói của dân tộc thiểu số trong xã hội được đảm bảo như thế nào?",
     "options": [
-      "Một nền kinh tế thị trường.",
-      "Chủ nghĩa xã hội.",
-      "Một chế độ dân chủ tư sản.",
-      "Một nhà nước tư bản."
+      "Không được lắng nghe",
+      "Được đại diện trong các cơ quan quyền lực",
+      "Bị bỏ qua",
+      "Không quan trọng"
     ],
     "correct": 1
   },
   {
     "id": 100,
-    "question": "Chủ nghĩa xã hội đảm bảo bình đẳng, đoàn kết giữa các dân tộc và có quan hệ như thế nào với nhân dân các nước trên thế giới?",
+    "question": "Ý nghĩa của câu 'Dàn nhạc giao hưởng khổng lồ' là gì?",
     "options": [
-      "Quan hệ cạnh tranh.",
-      "Quan hệ hữu nghị, hợp tác.",
-      "Quan hệ thù địch.",
-      "Quan hệ xa cách."
+      "Âm nhạc thật sự",
+      "Sự phức tạp và hài hòa trong giải quyết vấn đề dân tộc",
+      "Một buổi hòa nhạc",
+      "Không có ý nghĩa gì"
     ],
     "correct": 1
   }

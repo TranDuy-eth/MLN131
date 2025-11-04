@@ -8,16 +8,19 @@ const HeroSection: React.FC = () => {
       className="h-screen w-full flex flex-col items-center justify-center snap-start relative bg-cover bg-center"
       style={{
         backgroundImage:
-          "url('https://redsvn.net/wp-content/uploads/2023/06/Lenin.jpg')",
+          "url('https://www.elleman.vn/app/uploads/2018/06/01/hinh-anh-noi-bat-dan-toc-viet-nam-elle-man-feature.jpg')",
       }}
     >
-      <div className="absolute inset-0 bg-black/40 z-0" />
-      <div className="relative z-10 flex flex-col items-center justify-center text-center">
-        <h1 className="text-5xl md:text-7xl font-extrabold text-white drop-shadow-lg mb-6 font-['Montserrat']">
-          CHỦ NGHĨA XÃ HỘI
+      <div className="absolute inset-0 bg-black/50 z-0" />
+      <div className="relative z-10 flex flex-col items-center justify-center text-center px-4">
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white drop-shadow-lg mb-6 font-['Montserrat']">
+          VAI TRÒ CỦA DÂN TỘC THIỂU SỐ
         </h1>
-        <p className="text-xl md:text-2xl text-white/90 font-medium mb-12 max-w-2xl">
-          VÀ THỜI KỲ QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI
+        <p className="text-xl md:text-2xl lg:text-3xl text-white/90 font-medium mb-4 max-w-4xl">
+          TRONG XÂY DỰNG XÃ HỘI CHỦ NGHĨA
+        </p>
+        <p className="text-base md:text-lg text-white/80 mb-12 max-w-3xl">
+          Dân tộc thiểu số là bộ phận không thể tách rời của cộng đồng quốc gia Việt Nam và đóng vai trò vô cùng quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa
         </p>
 
         {/* Quiz Button */}
