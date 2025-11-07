@@ -27,12 +27,12 @@ const ComparisonSection: React.FC = () => {
     {
       title: 'Giáo dục',
       before: {
-        image: 'https://icdn.dantri.com.vn/2017/chieng-so-3-1502878781211.jpg',
+        image: 'https://static.kienviet.net/storage/uploads/2023/09/kien-viet-he-thong-truong-diem-vung-cao1-1693890020.jpg',
         label: 'Trước đây',
         description: 'Trường lớp tạm bợ, thiếu giáo viên, tỷ lệ mù chữ cao',
       },
       after: {
-        image: 'https://icdn.dantri.com.vn/2017/chieng-so-1502878612739.jpg',
+        image: 'https://static.kienviet.net/storage/uploads/2023/09/z4651747586381-397a85aa1429bc0917d8badbc390717c-1693891265.jpg',
         label: 'Hiện nay',
         description: '100% xã có trường học, 1032 trường phổ thông dân tộc nội trú',
       },
@@ -45,7 +45,7 @@ const ComparisonSection: React.FC = () => {
         description: 'Không có điện lưới, dùng đèn dầu, thiếu nước sạch',
       },
       after: {
-        image: 'https://images.baodantoc.vn/uploads/2020/Th%C3%A1ng%208/Ng%C3%A0y%205/Anh%20trang%201.JPG',
+        image: 'https://cdnmedia.baotintuc.vn/Upload/3qVxwVtNEPp6Wp9kkF77g/files/2021/08/31/dien-310821.jpg',
         label: 'Hiện nay',
         description: '98% hộ có điện lưới quốc gia, 809 công trình nước sạch',
       },
