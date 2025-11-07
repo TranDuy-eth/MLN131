@@ -286,7 +286,7 @@ const Quiz: React.FC = () => {
               </Link>
               <span className="text-gray-300">|</span>
               <h1 className="text-2xl font-bold text-gray-800">
-                Quiz Chủ nghĩa Xã hội
+                Quiz Về Vai Trò của Dân tộc thiểu số trong xây dựng XHCN
               </h1>
             </div>
             <div className="text-sm text-gray-600">

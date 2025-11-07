@@ -44,10 +44,7 @@ const HeroSection: React.FC = () => {
           <div className="flex flex-wrap justify-center gap-4 mt-6">
             <div className="bg-white/10 backdrop-blur-md px-4 py-2 rounded-full border border-white/20">
               <span className="text-white font-semibold">🎯 20 câu hỏi ngẫu nhiên</span>
-            </div>
-            <div className="bg-white/10 backdrop-blur-md px-4 py-2 rounded-full border border-white/20">
-              <span className="text-white font-semibold">📊 Kết quả chi tiết</span>
-            </div>
+            </div>    
           </div>
         </div>
       </div>
